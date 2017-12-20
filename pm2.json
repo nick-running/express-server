@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "xiaolajiao-merchants",
+    "script": "app.js",
+    "cwd": "/srv/app/project-name/public",
+//    "cwd": "D:/dev/node/project-name-server/public",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
