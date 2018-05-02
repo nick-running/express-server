@@ -1,8 +1,8 @@
 {
   "apps": [{
-    "name": "xiaolajiao-merchants",
+    "name": "easy-skills-adm-server",
     "script": "app.js",
-    "cwd": "/srv/app/project-name/public",
+    "cwd": "/srv/app/easy-skills-adm-server/public",
 //    "cwd": "D:/dev/node/project-name-server/public",
     "exec_mode": "fork",
     "max_memory_restart": "1G",
@@ -10,7 +10,7 @@
     "node_args": [],
     "args": [],
     "env": {
-      
+
     }
   }]
 }
